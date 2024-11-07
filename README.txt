@@ -1,11 +1,3 @@
-# https://collabedit.com/fe8g5
-Group - 12 : 
-    Syam Manoj Kumar Paila (20CS10041)
-    Anirudh Aitipamula (20CS30002)
-    Ganjikunta Vijay Kumar (20CS30018)
-    Vineet Amol Pippal (20CS30058)
-  
-
 Data Structures:-
 
 - struct action
